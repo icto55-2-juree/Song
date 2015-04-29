@@ -1,0 +1,13 @@
+
+public class Student extends Person {
+
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Student(int age, String name, int height, int weight) {
+		super(age, name, height, weight);
+		// TODO Auto-generated constructor stub
+	}
+
+}

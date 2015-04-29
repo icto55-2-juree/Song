@@ -1,0 +1,7 @@
+package Shape;
+
+public class Rect extends Shape {
+
+	
+
+}

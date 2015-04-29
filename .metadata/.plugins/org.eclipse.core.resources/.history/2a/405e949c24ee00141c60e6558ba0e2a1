@@ -1,0 +1,50 @@
+
+public class Car {
+
+	String name;
+	int speed;
+	static int numberOfCars;
+
+	public Car() {
+				name = "MyCar";
+				speed = 0;
+				numberOfCars++;
+	}	
+
+
+
+	public String getName() {
+		return name;
+	}
+
+
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+
+	public static int getNumberOfCars() {
+		return numberOfCars;
+	}
+
+
+
+	public static void setNumberOfCars(int numberOfCars) {
+		Car.numberOfCars = numberOfCars;
+	}
+
+
+
+	public void setSpeed(int speed) {
+		this.speed = speed;
+	}
+
+
+
+	public int getSpeed() {
+				return speed;
+	}
+	
+}

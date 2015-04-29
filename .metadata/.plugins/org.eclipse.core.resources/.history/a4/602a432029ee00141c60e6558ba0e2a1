@@ -1,0 +1,19 @@
+public class ArrayUtils {
+
+	public static double[] intToDouble(int[] src) {
+		
+		int length = src.length;
+		int[] Array = {10, 20 ,30, 40 , 50};
+		int[] intArray = ArrayUtils.intToDouble(Arry);
+		double[] doubleArray = ArrayUtils.intToDouble(intArray);
+		
+		
+		for (int i = 0; i < length; i++) {
+			doubleArray[i] = src[i];
+			
+		}
+		return doubleArray;
+		
+			}
+
+}

@@ -1,0 +1,12 @@
+
+public class GoodsApp {
+public static void main(String[] args) {
+	Goods g = new Goods();
+	
+	System.out.println("실행결과:");
+	System.out.println("상품이름:"+g.getName());
+	System.out.println("상품가격:"+g.price);
+	System.out.println("재고수량:"+g.countStock);
+	System.out.println("팔린수량:"+g.countSold);
+}
+}

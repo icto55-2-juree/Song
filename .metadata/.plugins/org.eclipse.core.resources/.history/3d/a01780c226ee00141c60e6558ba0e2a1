@@ -1,0 +1,8 @@
+
+public class StaticMethod {
+
+	public StaticMethod() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

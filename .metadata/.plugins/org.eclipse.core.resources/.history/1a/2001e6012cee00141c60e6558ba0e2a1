@@ -1,0 +1,22 @@
+public class ArrayUtils {
+	public static double[] intToDouble(int[] src){
+		
+		double[] arr2 = new double[src.length];
+		
+		for (int i = 0; i < src.length; i++) {
+			arr2[i] = (double)src[i];
+		}
+		return arr2;
+	}
+
+	static int[] doubleToInt(double[] source){
+		return null;
+
+	}
+
+	static int[] concat(int[] s1, int[] s2){
+		return s2;
+
+	}
+
+}

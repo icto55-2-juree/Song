@@ -1,0 +1,9 @@
+package Shape;
+
+public class Rect extends Shape {
+
+	public Rect() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

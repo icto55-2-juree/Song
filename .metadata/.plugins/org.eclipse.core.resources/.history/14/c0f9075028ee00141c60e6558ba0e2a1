@@ -1,0 +1,7 @@
+public class ArrayUtils {
+
+	public static double[] intToDouble(int[] src) {
+		return null;
+	}
+
+}

@@ -1,0 +1,22 @@
+import java.util.Date;
+
+
+public class Song {
+	
+	private String title;
+	private String artist;
+	private String album;
+	private Date year;
+	private int track;
+	
+
+	public Song() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

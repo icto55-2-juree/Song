@@ -1,0 +1,9 @@
+package Shape;
+
+public class Shpae {
+
+	public Shpae() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
